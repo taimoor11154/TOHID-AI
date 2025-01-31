@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i++) {
 //
 global.botname = process.env.BOTNAME || 'DTRaj-AI';
 global.pairingNumber = process.env.BOT_NUMBER || '923124383029' ;  // 923124383029
-global.SESSION_ID = process.env.SESSION_ID || '' ;  //923124383029
+global.SESSION_ID = process.env.SESSION_ID || 'yQ5QQQzL#p19a56rv444e8OK88Bp8WzWfz8iFWsLT7hWikI7Eam0' ;  //yQ5QQQzL#p19a56rv444e8OK88Bp8WzWfz8iFWsLT7hWikI7Eam0
 
 global.mods = []
 global.prems = []
