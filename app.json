@@ -8,12 +8,12 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "917849917350",
+      "description": "923124383029",
       "required": true,
       "value": ""
     },
     "BOTNAME": {
-      "description": "Give your BOT a name",
+      "description": "Dkraj king",
       "required": true,
       "value": "TOHID-AI"
     },
@@ -23,14 +23,14 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "yQ5QQQzL#p19a56rv444e8OK88Bp8WzWfz8iFWsLT7hWikI7Eam0",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
-      "description": "mode public or private",
+      "description": "mode public or private"public,
       "required": true,
-      "value": ""
+      "value": "public"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -50,7 +50,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
@@ -90,7 +90,7 @@
     "OWNER_NAME": {
       "description": "your owner Name",
       "required": false,
-      "value": ""
+      "value": "Danish"
     },
      "REMOVEBG_KEY": {
       "description": "your Remove background api key",
